@@ -3,6 +3,7 @@ This project is a minimalist banking website called Bankist. It is a static webs
 
 ![2024-01-04_16-22](https://github.com/StefanSchutte/Bankist_app/assets/127427422/aca75a27-8298-4bf2-a057-68e3242339c9)
 
+[Deployed SIte](https://bankist-dom-stefan.netlify.app/?)
 
 ### Introduction
 Bankist is designed to provide a simple and modern banking experience. The website consists of several sections, each highlighting different aspects of the banking service. It includes a navigation bar, a header with a call-to-action button, sections for features and operations, testimonials, a sign-up section, and a footer.
